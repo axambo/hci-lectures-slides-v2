@@ -14,11 +14,11 @@ The slides for the series of four lectures in Human Computer Interaction deliver
 
 ### Day 2: Evaluation in HCI
 
-* Slides
+* [Slides](MCT4000-HCI-day2)
 	
-### Day 3: NIMEs (focus on practices)
+### Day 3: NIMEs (focus on evaluation and practices)
 
-* Slides
+* [Slides](MCT4000-HCI-day3)
  
 ### Day 4: NIMEs (focus on instrument design)
 
